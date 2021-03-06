@@ -1,6 +1,6 @@
 {
   "name": "SushiSwap Menu",
-  "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/sushi_logo.png",
+  "logoURI": "https://rawcdn.githack.com/sushiswapclassic/token-list/6280868e317211fa35af6809cadc20a51fe95f05/assets/sushi_logo.png",
   "keywords": [
     "sushiswap",
     "sushi",
@@ -14,7 +14,7 @@
       "name": "SushiSwap",
       "symbol": "SUSHI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/sushi_logo.png"
+      "logoURI": "https://rawcdn.githack.com/sushiswapclassic/token-list/6280868e317211fa35af6809cadc20a51fe95f05/assets/sushi_logo.png"
     },
     {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
